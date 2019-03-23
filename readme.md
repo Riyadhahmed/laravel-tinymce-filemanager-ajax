@@ -4,7 +4,7 @@
 ### Requirements
 
     1. PHP version upto 7.1.3    
-    2. Laravel version  5.6, 5.7    
+    2. Laravel version  5.6, 5.7, 5.8
 
 ### Installation
 
